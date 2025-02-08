@@ -2,3 +2,22 @@
 ## Project Sumary 
 ### This project focuses on analyzing an e-commerce dataset using **SQL** to uncover insights into customer behavior, product performance, and sales trends. 
 The database was designed with normalized tables including Customers, Products, Orders, Order Details, and Engagement to establish relationships for efficient querying and analysis. SQL queries and measures include calculating total revenue, sales by product category, and analyzing discounts and engagement metrics. The dataset provides a comprehensive view of transaction and customer activity, making it an excellent resource for business analysis and decision-making.
+Link - EcommProject.sql
+
+### This Python project provides a comprehensive analysis of an e-commerce dataset, focusing on exploring customer behavior, product performance, and sales insights. The project utilizes pandas for data manipulation and matplotlib/seaborn for visualization. Key steps include:
+
+**1. Dataset Exploration**
+a. Displayed the first 10 records and last 5 records of the dataset for initial inspection.
+b. Data type validation: Ensured proper column data types across tables (e.g., integers, floats, strings).
+c. Null value analysis: Checked for missing values in all tables to identify data cleaning needs.
+d. Calculated the total number of rows and columns in each table.
+
+**2. Key Insights**
+a. Identified the highest and lowest purchase prices and product prices to evaluate the range of sales.
+b. Calculated the average purchase price to understand typical spending patterns.
+c. Counted the number of customers with Hindi as their preferred language.
+d. Filtered and displayed companies with titles that include "Books" to explore product-specific businesses.
+
+**3. Advanced Analysis**
+a. Sorted the product categories alphabetically to organize data for reporting.
+b. Identified all transactions with discounts greater than 20%, highlighting high-discount opportunities.
