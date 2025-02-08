@@ -24,7 +24,7 @@ d. Filtered and displayed companies with titles that include "Books" to explore 
 a. Sorted the product categories alphabetically to organize data for reporting.
 b. Identified all transactions with discounts greater than 20%, highlighting high-discount opportunities.
 
-Power BI Dashboard
+## Power BI Dashboard
 A dynamic and interactive Power BI dashboard was created to visualize key metrics and insights from the e-commerce dataset. The dashboard includes visuals such as:
 
 ![Screenshot 2025-02-08 121041](https://github.com/user-attachments/assets/e7bb2791-69da-4af8-8d56-cf4ceef59bb3)
